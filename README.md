@@ -6,7 +6,6 @@ Bu dosya, derin öğrenme modelleri geliştirebilmek için Keras ile yaptığım
 # Dosya İçeriği
 <ul>
   <li>Neural Network Regression</li>
-  <li>Flatten Layer</li>
   <li>Image Classification With Keras</li>
   <li>Model Building With Functional API</li>
   <li>Keras Custom Layer</li>
@@ -37,7 +36,6 @@ This file contains several examples that I built with Keras to develop deep lear
 # File Content
 <ul>
   <li>Neural Network Regression</li>
-  <li>Flatten Layer</li>
   <li>Image Classification With Keras</li>
   <li>Model Building With Functional API</li>
   <li>Keras Custom Layer</li>
