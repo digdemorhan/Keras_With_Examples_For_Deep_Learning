@@ -19,6 +19,8 @@ Bu dosya, derin öğrenme modelleri geliştirebilmek için Keras ile yaptığım
   <li>Tensorflow</li>
   <li>Scikit-learn</li>
   <li>Matplotlib</li>
+  <li>Pandas</li>
+  <li>Numpy</li>
 </ul>
 
 # Veri Setleri
@@ -49,6 +51,8 @@ This file contains several examples that I built with Keras to develop deep lear
   <li>Tensorflow</li>
   <li>Scikit-learn</li>
   <li>Matplotlib</li>
+  <li>Pandas</li>
+  <li>Numpy</li>
 </ul>
 
 # Datasets
