@@ -42,6 +42,7 @@ This file contains several examples that I built with Keras to develop deep lear
   <li>Image Classification With Keras</li>
   <li>Model Building With Functional API</li>
   <li>Keras Custom Layer</li>
+  <li>Model Subclassing With Keras</li>
   <li>Keras Sequential API Example</li>
   <li>Keras Functional API Example</li>
 </ul>
