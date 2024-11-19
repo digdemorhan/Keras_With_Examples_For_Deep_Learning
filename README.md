@@ -10,6 +10,7 @@ Bu dosya, derin öğrenme modelleri geliştirebilmek için Keras ile yaptığım
   <li>Model Building With Functional API</li>
   <li>Keras Custom Layer</li>
   <li>Model Subclassing With Keras</li>
+  <li>Improving Model Accuracy</li>
   <li>Keras Sequential API Example</li>
   <li>Keras Functional API Example</li>
 </ul>
@@ -43,6 +44,7 @@ This file contains several examples that I built with Keras to develop deep lear
   <li>Model Building With Functional API</li>
   <li>Keras Custom Layer</li>
   <li>Model Subclassing With Keras</li>
+  <li>Improving Model Accuracy</li>
   <li>Keras Sequential API Example</li>
   <li>Keras Functional API Example</li>
 </ul>
