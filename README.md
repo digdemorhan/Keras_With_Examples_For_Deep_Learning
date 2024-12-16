@@ -13,6 +13,7 @@ Bu dosya, derin öğrenme modelleri geliştirebilmek için Keras ile yaptığım
   <li>Improving Model Accuracy</li>
   <li>Keras Sequential API Example</li>
   <li>Keras Functional API Example</li>
+  <li>Keras Tuner</li>
 </ul>
 
 # Kullanılan Frameworkler ve Kütüphaneler
@@ -47,6 +48,7 @@ This file contains several examples that I built with Keras to develop deep lear
   <li>Improving Model Accuracy</li>
   <li>Keras Sequential API Example</li>
   <li>Keras Functional API Example</li>
+  <li>Keras Tuner</li>
 </ul>
 
 # Frameworks and Libraries Used
